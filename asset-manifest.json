@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personal-finance-management-system/static/css/main.e6c13ad2.css",
+    "main.js": "/personal-finance-management-system/static/js/main.49afd0fd.js",
+    "index.html": "/personal-finance-management-system/index.html",
+    "main.e6c13ad2.css.map": "/personal-finance-management-system/static/css/main.e6c13ad2.css.map",
+    "main.49afd0fd.js.map": "/personal-finance-management-system/static/js/main.49afd0fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.49afd0fd.js"
+  ]
+}
